@@ -1,0 +1,129 @@
+body {
+    font-family: Franklin Gothic, Arial, sans-serif
+}
+
+nav {
+    width: 100%;
+    height: 60px;
+    background: #344051;
+}
+
+.logo {
+    color: #fff;
+    font-size: 23px;
+    line-height: 60px;
+    padding-left: 388px;
+    float: left;
+}
+
+.menu {
+    float: left;
+    padding-left: 432px;
+}
+
+.menu li {
+    float: left;
+    line-height: 60px;
+    color: #fff;
+    margin-right: 40px;
+    font-size: 16px;
+    text-transform: uppercase;
+
+}
+
+.main {
+    width: 100%;
+    height: calc(100% - 60px);
+    background: url(../img/boy.png) 90% 100%/auto 85% no-repeat, url(../img/fon.jpg) center/cover, no-repeat;
+
+}
+
+.title__container_1 {
+    float: left;
+    margin: 380px 0px 0px 404px;
+    color: #2c384a;
+    text-align: center
+}
+
+.title__container_1 h1 {
+    font-size: 75px;
+    font-weight: 300;
+
+}
+
+.title__container_1 h4 {
+    margin-top: 40px;
+    font-size: 22px;
+    color: #79818d
+}
+
+.title__container_1 input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 18px;
+    padding: 0px 16px;
+    margin: 58px 14px 0px 14px;
+    
+}
+
+.title__container_2{
+    float: left;
+    width: 100%;
+    text-align: center;
+    
+}
+.title__container_2 h2{
+    color: #263244;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-top: 102px;
+}
+
+.title__container_2 span{
+    display: block;
+    width: 750px; 
+    margin-left: 510px;
+    text-align: left;
+    line-height: 25px;
+   
+    
+    }
+
+.title__container_2 input{
+    margin-top: 40px;
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 18px;
+    padding: 0px 16px;
+}
+.title__container_3{
+    float: left;
+    width: 100%;
+    text-align: center;
+    }
+.title__container_3 h2{
+    color: #263244;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-top: 102px;
+    }
+.title__container_3 img{
+    
+}
+
+.title__container_3 span{
+    display: block;
+    float: left
+    width: 50px; 
+    margin-left: 110px;
+    text-align: center;
+    line-height: 25px;
+    
